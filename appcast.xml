@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Solace</title>
+        <item>
+            <title>0.12.2</title>
+            <pubDate>Fri, 16 Oct 2026 16:51:26 -0400</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>0.12.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Rishi-175/Solace-App/releases/download/v0.12.2/Solace.dmg" length="4840772" type="application/octet-stream" sparkle:edSignature="1g6NMs0a67dcXGpEiCYyQMR9ld+cfQTfyTKa8yWuhtDkV0CVqW3pyk2M9vFTcbhfL9kaVaWBAjDH2XKnqEL5Dg=="/>
+        </item>
+    </channel>
+</rss>
